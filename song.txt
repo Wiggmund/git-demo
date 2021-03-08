@@ -4,6 +4,4 @@ some text for sample
 some text for sample
 
 other text for sample
-other text for sample
-other text for sample
-other text for sample
+
