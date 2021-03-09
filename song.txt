@@ -12,3 +12,8 @@ on this their chosen battle field
 sword and spear
 ########
 some text only for master branch
+########
+standing strong
+on this their chosen battle field
+sword and spear
+wall of shields
